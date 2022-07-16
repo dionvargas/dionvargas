@@ -9,8 +9,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionvargas&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
-## MY INTERESTS
+## EDUCATION
+<div>
+👨‍🎓 Master's Degree in Electrical Engineering in progress - Universidade Tecnológica Federal Do Paraná (UTFPR), Pato Branco - PR, Brazil;<br>
+🌎 Specialization in Information Security - Faculdade Integrada de Brasília (FABRAS), Brasília - DF, Brazil;<br>
+👨‍💻 Computer Engineering - Universidade  do Oeste de Santa Catarina (UNOESC), Joaçaba - SC, Brazil;<br>
+⚡ Technical Course in Electronics -  Serviço Nacional de Aprendizagem Industrial (SENAI), Luzerna - SC, Brazil;
+</div>
 
+## MY INTERESTS
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -21,7 +28,6 @@
 </div>
 
 ## CONTACTC
-  
 <div>
 <a href="https://www.instagram.com/dion_vargas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.facebook.com/dionathan.vargas" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
