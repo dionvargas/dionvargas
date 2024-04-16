@@ -14,7 +14,7 @@
 ⚡ Technical Course in Electronics -  Serviço Nacional de Aprendizagem Industrial (SENAI), Luzerna - SC, Brazil;<br>
 👨‍💻 Computer Engineering - Universidade  do Oeste de Santa Catarina (UNOESC), Joaçaba - SC, Brazil;<br>
 🌎 Specialization in Information Security - Faculdade Integrada de Brasília (FABRAS), Brasília - DF, Brazil;<br>
-👨‍🎓 Master's Degree in Electrical Engineering in progress - Universidade Tecnológica Federal Do Paraná (UTFPR), Pato Branco - PR, Brazil;<br>
+👨‍🎓 Master's Degree in Electrical Engineering - Universidade Tecnológica Federal Do Paraná (UTFPR), Pato Branco - PR, Brazil;<br>
 </div>
 
 ## PROFESSIONAL EXPREINECES
