@@ -19,9 +19,9 @@
 
 ## PROFESSIONAL EXPREINECES
 <div>
-🦿 Automation Laboratory Technician - Instituto Federal Catarinense (IFC), Luzerna - SC, Brazil (2013 - Actual);<br>
+🦿 Automation Laboratory Technician - Instituto Federal Catarinense (IFC), Luzerna - SC, Brazil (2013 - current);<br>
 🤖 Robotics Maker Teaching Teacher - Serviço Social da Indústria (SESI), Joaçaba - SC, Brazil (2022 - 2024);<br>
-🖥️ Programming Teaching Specialist - Serviço Nacional de Aprendizagem Industrial (SENAI), Luzerna - SC, Brazil (2024 - Actual);
+🖥️ Programming Teaching Specialist - Serviço Nacional de Aprendizagem Industrial (SENAI), Luzerna - SC, Brazil (2024 - current);
 </div>
 
 ## MY INTERESTS
